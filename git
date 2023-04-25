@@ -1,0 +1,51 @@
+*   [33m50ef935[m[33m ([m[1;31morigin/master[m[33m)[m Merge branch 'master' of https://github.com/TTTWIXX/Github-study
+[31m|[m[32m\[m  
+[31m|[m *   [33maa54a86[m[33m ([m[1;32m0304foodlist[m[33m)[m Merge commit '452e0e2' into 0304foodlist
+[31m|[m [33m|[m[34m\[m  
+* [33m|[m [34m|[m [33m7dd3bb1[m README파일 작성!
+* [33m|[m [34m|[m   [33mdc97c38[m Merge branch '0304foodlist' of https://github.com/TTTWIXX/Github-study into feat/music
+[35m|[m[36m\[m [33m\[m [34m\[m  
+* [36m|[m [33m|[m [34m|[m [33mfdda578[m[33m ([m[1;31morigin/feat/music[m[33m)[m message 3
+* [36m|[m [33m|[m [34m|[m [33mea6a57a[m message 2
+* [36m|[m [33m|[m [34m|[m [33m726d5d6[m message 1
+* [36m|[m [33m|[m [34m|[m [33mb875241[m kpop.txt 수정완료
+[34m|[m [36m|[m[34m_[m[33m|[m[34m/[m  
+[34m|[m[34m/[m[36m|[m [33m|[m   
+[34m|[m [36m|[m [33m|[m * [33ma473000[m[33m ([m[1;31morigin/revert-1-feat/food[m[33m)[m Revert "food.txt 수정"
+[34m|[m [36m|[m [33m|[m[36m/[m  
+[34m|[m [36m|[m[36m/[m[33m|[m   
+[34m|[m * [33m|[m   [33m636fed4[m[33m ([m[1;31morigin/HEAD[m[33m, [m[1;31morigin/0304foodlist[m[33m)[m Merge pull request #1 from Bcacao/feat/food
+[34m|[m [1;32m|[m[1;33m\[m [33m\[m  
+[34m|[m [1;32m|[m * [33m|[m [33m5c12c8c[m food.txt 수정
+[34m|[m [1;32m|[m[1;32m/[m [33m/[m  
+[34m|[m [1;32m|[m [33m|[m * [33me9650f3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m 방금전 커밋 메세지 내용 수정
+[34m|[m [1;32m|[m [33m|[m[33m/[m[34m|[m 
+[34m|[m [1;32m|[m[34m_[m[33m|[m[34m/[m  
+[34m|[m[34m/[m[1;32m|[m [33m|[m   
+* [1;32m|[m [33m|[m [33m452e0e2[m message
+* [1;32m|[m [33m|[m [33m293a4e5[m commit conflict 해결완료
+[1;36m|[m[1;32m\[m[1;32m|[m [33m|[m 
+* [1;32m|[m [33m|[m [33mbf50b64[m master에서 만든 team.txt 메모 추가
+[31m|[m [1;32m|[m * [33m4b6dd71[m 월요일 ㅠㅠㅠ
+[31m|[m [1;32m|[m[1;32m/[m  
+[31m|[m * [33m39db459[m team.txt 메모 추가
+[31m|[m *   [33m319c7b2[m Merge branch '0304list' into 0304foodlist
+[31m|[m [32m|[m[33m\[m  
+[31m|[m [32m|[m * [33m0aa54dc[m[33m ([m[1;31morigin/0304list[m[33m)[m Revert "내일 할일 추가 1"
+[31m|[m [32m|[m[31m/[m  
+[31m|[m[31m/[m[32m|[m   
+[31m|[m * [33mf752da7[m 2차 장리스트 추가
+[31m|[m * [33m1a1c6a4[m 내일 장볼 리스트
+[31m|[m[31m/[m  
+* [33md5c946d[m[33m ([m[1;31morigin/food.txt[m[33m, [m[1;31morigin/fix/team[m[33m)[m 내일 할일 추가 1
+* [33m92216b4[m 오늘 저녁 메뉴 추가 2!
+* [33mcc173d3[m 오늘 저녁 메뉴 추가!
+* [33mb74b88a[m 오늘해야할것들!
+* [33m9762df1[m Revert "food.txt 수정"
+* [33mba08a78[m  두번째 할일 작성
+* [33mea5e04b[m[33m ([m[1;31morigin/feat/hobby[m[33m)[m food.txt 수정
+* [33mca7c4e2[m food.txt 추가
+* [33md488713[m[33m ([m[1;31morigin/newlife[m[33m)[m hobby.txt 추가 :
+* [33m588ba4d[m[33m ([m[1;31morigin/release[m[33m)[m 첫번째 메모
+* [33m31db2bb[m[33m ([m[1;31morigin/feat/image[m[33m)[m pororo 사진 추가
+* [33m3bdff0d[m readme
